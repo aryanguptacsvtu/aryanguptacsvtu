@@ -1,9 +1,9 @@
 <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" alt="Banner" style="width:100%; height:auto;">
 
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
-- 🌱 I’m currently learning C, C++, Python...
+- 🌱 I’m currently learning C, C++, Python, Java, R...
 - 💼 Open to collaboration on interesting projects!
-- 📫 How to reach me: guptaaryan3832@gmail.com
+- 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <div style="text-align: center;">
@@ -20,14 +20,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanguptacsvtu&show_icons=true&locale=en" alt="aryanguptacsvtu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanguptacsvtu&" alt="aryanguptacsvtu" /></p>
-
 
 <!---
 aryanguptacsvtu/aryanguptacsvtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
