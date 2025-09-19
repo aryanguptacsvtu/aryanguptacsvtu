@@ -27,7 +27,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[Aryan Gupta]([http://www.linkedin.com/in/aryan-gupta-27814a306/])" target="blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/aryan-gupta-27814a306/" target="blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
