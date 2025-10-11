@@ -144,6 +144,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanguptacsvtu&" alt="aryanguptacsvtu" /></p>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=aryanguptacsvtu" alt="contribution snake" width="100%" />
+</div>
 
 <!---
 aryanguptacsvtu/aryanguptacsvtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
