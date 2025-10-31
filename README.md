@@ -36,6 +36,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p>
 
+<details>
+  <summary>
+    <strong>📊 Click to expand my Badges</strong>
+  </summary>
+  <br>
+  
+  <p align="left">
+    <a href="https://holopin.io/@aryanguptacsvtu">
+      <img src="https://holopin.me/aryanguptacsvtu" alt="An image of @aryanguptacsvtu's Holopin badges, which is a link to view their full Holopin profile" />
+    </a>
+  </p>
+</details>
+
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
 ## 🌐 Let's Connect :
