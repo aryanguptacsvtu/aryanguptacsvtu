@@ -154,8 +154,14 @@
   <br>
 <br>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="mcp" width="55" height="55"/>
-</p>
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
+</a>
+<a href="hhttps://www.langchain.com/langgraph/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="langgraph" width="55" height="55"/>
+</a>
+<a href="https://www.langchain.com/langsmith/observability" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55"/>
+</a>
 </p>
 
 
