@@ -145,6 +145,17 @@
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+</a>
+<a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/mcp.svg" alt="mcp" width="40" height="40"/>
+</a>
+  <br>
+<br>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="mcp" width="55" height="55"/>
+</p>
 </p>
 
 
