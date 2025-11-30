@@ -90,7 +90,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL-wordmark" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL-wordmark" width="62" height="40"/>
   </a>
 <br>
 <br>
@@ -109,6 +109,9 @@
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
   </a>
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Kaggle" width="65" height="40"/>
+</a>
 </p>
 <br>
 
