@@ -34,11 +34,12 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p> -->
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=aryanguptacsvtu&theme=flat&no-frame=false&no-bg=true&margin-w=5" alt="aryanguptacsvtu" /></a></p>
 
 <details>
   <summary>
-    <strong>📊 Click to expand my Badges</strong>
+    <strong>📊 HacktoberFest 2025 Badges</strong>
   </summary>
   <br>
   
