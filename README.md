@@ -35,7 +35,7 @@
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p> -->
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=aryanguptacsvtu&theme=flat&no-frame=false&no-bg=true&margin-w=5" alt="aryanguptacsvtu" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=aryanguptacsvtu&theme=flat&no-frame=false&no-bg=true&margin-w=6" alt="aryanguptacsvtu" /></a></p>
 
 <details>
   <summary>
@@ -175,8 +175,8 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="40%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="51%" />
 </div>
 
 <div align="center">
