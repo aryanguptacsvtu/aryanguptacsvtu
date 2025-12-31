@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
-- 🌱 I’m currently learning Machine Learning, DSA ,Neural Networks...
+- 🌱 I’m currently learning Machine Learning, Generative AI, Deep Learning...
 - 💼 Open to collaboration on interesting projects!
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 <div style="text-align: center;">
@@ -175,12 +175,12 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="39%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50%" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" width="55%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p> -->
