@@ -170,11 +170,12 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanguptacsvtu&show_icons=true&locale=en&include_all_commits=true" alt="aryanguptacsvtu statistics" /></p>
-
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanguptacsvtu&show_icons=true&locale=en&include_all_commits=true" alt="aryanguptacsvtu statistics" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanguptacsvtu&" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
