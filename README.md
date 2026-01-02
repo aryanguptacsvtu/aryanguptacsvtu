@@ -1,5 +1,5 @@
 <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" 
-     alt="Banner" width="100%" height="175">
+     alt="Banner" width="100%" height="174">
 
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <div align="center">
@@ -175,7 +175,7 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41.5%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="51%" />
 </div>
 
