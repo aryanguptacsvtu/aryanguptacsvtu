@@ -35,7 +35,7 @@
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p> -->
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=aryanguptacsvtu&theme=flat&no-frame=false&no-bg=true&margin-w=6" alt="aryanguptacsvtu" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=aryanguptacsvtu&theme=darkhub&no-frame=false&no-bg=true&margin-w=6" alt="aryanguptacsvtu" /></a></p>
 
 <details>
   <summary>
