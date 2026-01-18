@@ -58,9 +58,12 @@
   <a href="https://www.linkedin.com/in/aryan-gupta-27814a306/" target="blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45"/>
   </a>
-  <a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
+  <!-- <a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="45" width="45"/>
-  </a>
+  </a> -->
+<a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/codechef/brown" alt="CodeChef" height="45" width="45"/>
+</a>
   <a href="https://www.hackerrank.com/AryanGupta3832" target="blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45" width="45"/>
   </a>
@@ -152,19 +155,31 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
-<a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
+<!-- <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/mcp.svg" alt="mcp" width="40" height="40"/>
+</a> -->
+<a href="https://modelcontextprotocol.io" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/blue" alt="CodeChef" height="40" width="40"/>
 </a>
 <br>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
+
+<a href="https://www.langchain.com/" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/langchain/green" alt="CodeChef" height="55" width="55"/>
 </a>
-<a href="hhttps://www.langchain.com/langgraph/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="langgraph" width="55" height="55"/>
+<a href="hhttps://www.langchain.com/langgraph/" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/langgraph/green" alt="CodeChef" height="55" width="55"/>
 </a>
 <a href="https://www.langchain.com/langsmith/observability" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55"/>
 </a>
+<!-- <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
+</a> -->
+<!-- <a href="hhttps://www.langchain.com/langgraph/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="langgraph" width="55" height="55"/>
+</a> -->
+
+
 </p>
 
 
@@ -175,8 +190,8 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41.5%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="51%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41.35%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50.5%" />
 </div>
 
 <div align="center">
