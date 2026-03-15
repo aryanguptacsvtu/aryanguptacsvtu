@@ -19,7 +19,7 @@
   
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
   
-<img alt="Coding" width="99%" height="450" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<img alt="Coding" width="98%" height="445" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 </div>
 
 
@@ -98,6 +98,9 @@
   </a>
 <br>
 <br>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="47"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
@@ -128,8 +131,11 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="45"/>
+  </a> -->
+   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="SKlearn" width="50" height="49"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
@@ -159,15 +165,15 @@
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/mcp.svg" alt="mcp" width="40" height="40"/>
 </a> -->
 <a href="https://modelcontextprotocol.io" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/blue" alt="CodeChef" height="40" width="40"/>
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/blue" alt="MCP" height="40" width="40"/>
 </a>
 <br>
 
 <a href="https://www.langchain.com/" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/langchain/green" alt="CodeChef" height="55" width="55"/>
+  <img src="https://cdn.simpleicons.org/langchain/green" alt="Langchain" height="55" width="55"/>
 </a>
-<a href="hhttps://www.langchain.com/langgraph/" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/langgraph/green" alt="CodeChef" height="55" width="55"/>
+<a href="https://www.langchain.com/langgraph/" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/langgraph/green" alt="LangGraph" height="55" width="55"/>
 </a>
 <a href="https://www.langchain.com/langsmith/observability" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55"/>
