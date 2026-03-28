@@ -200,8 +200,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50.5%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
+</div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p> -->
