@@ -169,8 +169,11 @@
 </a>
 <br>
 
-<a href="https://www.langchain.com/" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/langchain/green" alt="Langchain" height="55" width="55"/>
+<!-- <a href="https://www.langchain.com/" target="blank" style="margin: 0 15px;">
+  <img src="https://cdn.simpleicons.org/langchain/green" alt="Langchain" height="35" width="35"/>
+</a> -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
 </a>
 <a href="https://www.langchain.com/langgraph/" target="blank" style="margin: 0 15px;">
   <img src="https://cdn.simpleicons.org/langgraph/green" alt="LangGraph" height="55" width="55"/>
@@ -178,9 +181,7 @@
 <a href="https://www.langchain.com/langsmith/observability" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55"/>
 </a>
-<!-- <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
-</a> -->
+
 <!-- <a href="hhttps://www.langchain.com/langgraph/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="langgraph" width="55" height="55"/>
 </a> -->
