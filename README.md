@@ -54,137 +54,202 @@
 
 ## 🌐 Let's Connect :
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryan-gupta-27814a306/" target="blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45"/>
-  </a>
-  <!-- <a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="45" width="45"/>
-  </a> -->
-<a href="https://www.codechef.com/users/guptaaryan1578" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/codechef/brown" alt="CodeChef" height="45" width="45"/>
-</a>
-  <a href="https://www.hackerrank.com/AryanGupta3832" target="blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45" width="45"/>
-  </a>
-  <a href="https://leetcode.com/AryanGuptaCSVTU" target="blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="45"/>
-  </a>
-</p>
-<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/aryan-gupta-27814a306/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/guptaaryan1578" target="_blank">
+        <img src="https://cdn.simpleicons.org/codechef/brown" alt="CodeChef" width="45" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/AryanGupta3832" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="45" height="48">
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/AryanGuptaCSVTU" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
 ##  Languages and Tools:
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL-wordmark" width="62" height="40"/>
-  </a>
-<br>
-<br>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="47"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
-  </a>
-<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Kaggle" width="65" height="40"/>
-</a>
-</p>
-<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.r-project.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="62" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="47">
+      </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://colab.research.google.com/" target="_blank">
+        <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Kaggle" width="65" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="1000%" />
 
 ## AI / ML :
 
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="45"/>
-  </a> -->
-   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="SKlearn" width="50" height="49"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<br>
-<br>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</a> 
-<a href="https://keras.io" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
-</a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</a>
-<!-- <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/mcp.svg" alt="mcp" width="40" height="40"/>
-</a> -->
-<a href="https://modelcontextprotocol.io" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/blue" alt="MCP" height="40" width="40"/>
-</a>
-<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="SKlearn" width="50" height="49">
+      </a>
+    </td>
+    <td>
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="45">
+      </a>
+    </td>
+    <td>
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="45">
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://keras.io" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://huggingface.co/" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://modelcontextprotocol.io" target="_blank">
+        <img src="https://cdn.simpleicons.org/modelcontextprotocol/blue" alt="MCP" width="40" height="40">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- <a href="https://www.langchain.com/" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/langchain/green" alt="Langchain" height="35" width="35"/>
-</a> -->
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55"/>
-</a>
-<a href="https://www.langchain.com/langgraph/" target="blank" style="margin: 0 15px;">
-  <img src="https://cdn.simpleicons.org/langgraph/green" alt="LangGraph" height="55" width="55"/>
-</a>
-<a href="https://www.langchain.com/langsmith/observability" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55"/>
-</a>
-
-<!-- <a href="hhttps://www.langchain.com/langgraph/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="langgraph" width="55" height="55"/>
-</a> -->
+<table>
+  <tr>
+    <td>
+      <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="55" height="55">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.langchain.com/langgraph/" target="_blank">
+        <img src="https://cdn.simpleicons.org/langgraph/green" alt="LangGraph" width="55" height="55">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.langchain.com/langsmith/observability" target="_blank">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 </p>
