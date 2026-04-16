@@ -248,6 +248,11 @@
         <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="55" height="55">
       </a>
     </td>
+     <td>
+      <a href="https://ollama.com/" target="_blank">
+        <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="50" height="50">
+      </a>
+    </td>
   </tr>
 </table>
 
