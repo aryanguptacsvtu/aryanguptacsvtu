@@ -240,7 +240,7 @@
     </td>
     <td>
       <a href="https://www.langchain.com/langgraph/" target="_blank">
-        <img src="https://cdn.simpleicons.org/langgraph/green" alt="LangGraph" width="53" height="53">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="LangGraph" width="53" height="53">
       </a>
     </td>
     <td>
@@ -250,7 +250,7 @@
     </td>
      <td>
       <a href="https://ollama.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="48" height="48">
+        <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="47" height="47">
       </a>
     </td>
   </tr>
