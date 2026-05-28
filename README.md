@@ -235,22 +235,22 @@
   <tr>
     <td>
       <a href="https://www.langchain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="53" height="53">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langchain.svg" alt="langchain" width="53" height="52">
       </a>
     </td>
     <td>
       <a href="https://www.langchain.com/langgraph/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="LangGraph" width="53" height="53">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langgraph.svg" alt="LangGraph" width="53" height="52">
       </a>
     </td>
     <td>
       <a href="https://www.langchain.com/langsmith/observability" target="_blank">
-        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="53" height="53">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="53" height="52">
       </a>
     </td>
      <td>
       <a href="https://ollama.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="47" height="47">
+        <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="47" height="45">
       </a>
     </td>
   </tr>
