@@ -29,9 +29,9 @@
   <a href="https://github.com/aryanguptacsvtu">
     <img src="https://komarev.com/ghpvc/?username=aryanguptacsvtu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="display: inline-block; margin-right: 10px;" />
   </a>
-  <a href="https://github.com/aryanguptacsvtu">
+  <!-- <a href="https://github.com/aryanguptacsvtu">
     <img src="https://img.shields.io/github/stars/aryanguptacsvtu?style=social" alt="GitHub stars" style="display: inline-block;" />
-  </a>
+  </a> -->
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanguptacsvtu" alt="aryanguptacsvtu" /></a> </p> -->
