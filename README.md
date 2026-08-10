@@ -267,10 +267,14 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact&" alt="aryanguptacsvtu top languages" width="41.35%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50.5%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" width="42.5%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50.5%" />
 </div>
 
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=6) -->
+
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true) -->
+<!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu)](https://github.com/stats-organization/github-stats-extended) -->
 <!-- <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
 </div> -->
