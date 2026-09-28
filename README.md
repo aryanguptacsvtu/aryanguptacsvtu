@@ -131,13 +131,18 @@
       </a>
     </td>
     <td>
-      <a href="https://jupyter.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
-      </a>
-    </td>
-    <td>
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+      </a>
+       <td>
+      <a href="https://claude.com/product/claude-code" target="_blank">
+        <img src="https://cdn.simpleicons.org/claudecode/orange" alt="ClaudeCode" width="45" height="47">
+      </a>
+    </td>
+    </td>
+    <td>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
       </a>
     </td>
     <td>
