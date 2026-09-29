@@ -258,6 +258,11 @@
         <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="47" height="45">
       </a>
     </td>
+    <td>
+      <a href="https://deepeval.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/deepeval.svg" alt="DeepEval" width="58" height="56">
+      </a>
+    </td>
   </tr>
 </table>
 
