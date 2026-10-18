@@ -195,8 +195,8 @@
       </a>
     </td>
     <td>
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="45">
+      <a href="https://spacy.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/spacy.svg" alt="spacy" width="50" height="35">
       </a>
     </td>
   </tr>
@@ -221,6 +221,11 @@
     <td>
       <a href="https://huggingface.co/" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40">
+      </a>
+    </td>
+    <td>
+    <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="45">
       </a>
     </td>
     <td>
