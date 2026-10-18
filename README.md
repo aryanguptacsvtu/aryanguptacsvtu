@@ -81,7 +81,7 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
-##  Languages and Tools:
+## 🛠️ Languages & Tools
 
 <table>
   <tr>
@@ -131,10 +131,11 @@
       </a>
     </td>
     <td>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-      </a>
-       <td>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+    </a>
+    </td>
+    <td>
       <a href="https://claude.com/product/claude-code" target="_blank">
         <img src="https://cdn.simpleicons.org/claudecode/orange" alt="ClaudeCode" width="45" height="47">
       </a>
@@ -165,7 +166,7 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="1000%" />
 
-## AI / ML :
+## 🤖 AI / ML
 
 <table>
   <tr>
@@ -197,6 +198,11 @@
     <td>
       <a href="https://spacy.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/spacy.svg" alt="spacy" width="50" height="35">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.nltk.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/nltk.svg" alt="nltk" width="44" height="35">
       </a>
     </td>
   </tr>
