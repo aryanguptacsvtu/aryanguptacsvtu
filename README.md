@@ -295,7 +295,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" height="180" />
+      <img src="https://streak-stats.demolab.com?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" height="180" width="92%"/>
     </td>
     <td align="center" valign="middle">
       <a href="https://gitroll.io/profile/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2" target="_blank">
