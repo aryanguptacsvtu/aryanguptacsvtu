@@ -287,7 +287,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" height="200" width="95%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" height="200" width="92%"/>
     </td>
     <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" height="210" />
@@ -299,7 +299,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://gitroll.io/profile/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2" target="_blank">
-        <img src="https://gitroll.io/api/badges/profiles/v1/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2?theme=light" alt="GitRoll Profile Badge" height="155" width="90%"/>
+        <img src="https://gitroll.io/api/badges/profiles/v1/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2?theme=light" alt="GitRoll Profile Badge" height="155" width="92%"/>
       </a>
     </td>
   </tr>
