@@ -202,7 +202,7 @@
     </td>
     <td>
       <a href="https://www.nltk.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/nltk.svg" alt="nltk" width="44" height="35">
+        <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/nltk.svg" alt="nltk" width="45" height="35">
       </a>
     </td>
   </tr>
@@ -283,30 +283,29 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
-<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p>
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false" alt="aryanguptacsvtu streak stats" /></p> -->
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" width="42.5%" />
-  <img src="https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" width="50.5%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" height="180" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" height="210" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" height="180" />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://gitroll.io/profile/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2" target="_blank">
+        <img src="https://gitroll.io/api/badges/profiles/v1/upNa9AlmoM8Qs9rqrjyiTw3OPzhq2?theme=light" alt="GitRoll Profile Badge" height="160" width="90%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=6) -->
 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true) -->
-<!-- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu)](https://github.com/stats-organization/github-stats-extended) -->
-<!-- <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
-</div> -->
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanguptacsvtu&theme=default&hide_border=false&include_all_commits=true" alt="aryanguptacsvtu streak stats" width="55%" />
-</div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanguptacsvtu&show_icons=true&locale=en&layout=compact" alt="aryanguptacsvtu top languages" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanguptacsvtu&show_icons=true&locale=en&include_all_commits=true" alt="aryanguptacsvtu statistics" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanguptacsvtu&" alt="aryanguptacsvtu streak stats" /></p> -->
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 <div align="center">
@@ -317,3 +316,4 @@
 aryanguptacsvtu/aryanguptacsvtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
