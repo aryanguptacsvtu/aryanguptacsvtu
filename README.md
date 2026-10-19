@@ -287,7 +287,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" height="200" width="91%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aryanguptacsvtu&layout=compact&langs_count=4" alt="aryanguptacsvtu top languages" height="200" width="90.5%"/>
     </td>
     <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api?username=aryanguptacsvtu&show_icons=true&include_all_commits=true" alt="aryanguptacsvtu github statistics" height="210" width="92.5%"/>
