@@ -8,17 +8,25 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</div>
-
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
+
+<table>
+  <tr>
+    <td valign="middle">
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
 - 🌱 I’m currently learning Machine Learning, Generative AI, Deep Learning...
 - 💼 Open to collaboration on interesting projects!
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
+
+    </td>
+    <td align="center" valign="middle">
+      <img src="koi/koi.gif" width="256" alt="My koi" />
+    </td>
+  </tr>
+</table>
+
 <div style="text-align: center;">
   
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
@@ -144,7 +152,6 @@
         <img src="https://cdn.simpleicons.org/claudecode/orange" alt="ClaudeCode" width="45" height="47">
       </a>
     </td>
-    </td>
     <td>
       <a href="https://jupyter.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
@@ -168,7 +175,7 @@
   </tr>
 </table>
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="1000%" />
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
 ## 🤖 AI / ML
 
@@ -268,7 +275,7 @@
         <img src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/main/assets/langsmith.svg" alt="langsmith" width="53" height="52">
       </a>
     </td>
-     <td>
+    <td>
       <a href="https://ollama.com/" target="_blank">
         <img src="https://cdn.simpleicons.org/ollama/orange" alt="ollama" width="47" height="45">
       </a>
@@ -280,10 +287,6 @@
     </td>
   </tr>
 </table>
-
-
-</p>
-
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
@@ -320,4 +323,3 @@
 aryanguptacsvtu/aryanguptacsvtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
