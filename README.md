@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
+
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
 ## 👨‍💻 About Me
