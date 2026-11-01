@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td width="80%" valign="middle">
+    <td width="85%" valign="middle">
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
