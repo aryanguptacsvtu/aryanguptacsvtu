@@ -8,25 +8,20 @@
   </a>
 </div>
 
-<!-- <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" /> -->
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
 
-<table>
+<table width="100%">
   <tr>
-    <td colspan="2">
-      <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="2000" height="4" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle">
+    <td width="90%" valign="middle">
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
-- 🌱 I'm currently learning Machine Learning, Generative AI, Deep Learning...
+- 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
+- 🌱 I’m currently learning Machine Learning, Generative AI, Deep Learning...
 - 💼 Open to collaboration on interesting projects!
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 
     </td>
-    <td align="center" valign="middle">
+    <td width="22%" align="center" valign="middle">
       <img src="koi/koi.gif" width="175" alt="My koi" />
     </td>
   </tr>
