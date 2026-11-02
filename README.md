@@ -8,11 +8,16 @@
   </a>
 </div>
 
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
+<!-- <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" /> -->
 
-<table width="100%">
+<table>
   <tr>
-    <td width="70%" valign="middle">
+    <td colspan="2">
+      <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="2000" height="4" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
 
 ## 👨‍💻 About Me
 - 🔭 I'm currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
@@ -21,7 +26,7 @@
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <img src="koi/koi.gif" width="175" alt="My koi" />
     </td>
   </tr>
