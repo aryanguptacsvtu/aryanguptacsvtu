@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td width="90%" valign="middle">
+    <td width="100%" valign="middle">
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
@@ -21,7 +21,7 @@
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="koi/koi.gif" width="175" alt="My koi" />
     </td>
   </tr>
