@@ -21,7 +21,7 @@
 - 📫 How to reach me: guptaaryan3832@gmail.com ,  guptaaryan1578@gmail.com
 
     </td>
-    <td width="22%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="koi/koi.gif" width="175" alt="My koi" />
     </td>
   </tr>
