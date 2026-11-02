@@ -1,5 +1,5 @@
 <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" 
-     alt="Banner" width="100%" height="145">
+     alt="Banner" width="100%" height="140">
 
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <div align="center">
@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td width="86%" valign="middle">
+    <td width="90%" valign="middle">
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from UTD, CSVTU Bhilai.
@@ -22,7 +22,7 @@
 
     </td>
     <td width="22%" align="center" valign="middle">
-      <img src="koi/koi.gif" width="170" alt="My koi" />
+      <img src="koi/koi.gif" width="175" alt="My koi" />
     </td>
   </tr>
 </table>
