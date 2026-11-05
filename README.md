@@ -315,8 +315,16 @@
 
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif?raw=true" width="100%" />
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=aryanguptacsvtu" alt="contribution snake" width="100%" />
+</div> -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/output/github-snake.svg" />
+    <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/aryanguptacsvtu/aryanguptacsvtu/output/github-snake.svg" />
+  </picture>
 </div>
 
 <!---
